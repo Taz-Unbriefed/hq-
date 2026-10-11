@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 542" width="840" height="542" role="img" aria-label="Taz Unbriefed HQ progress: 20 percent complete" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
 <rect width="840" height="542" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
 <text x="32" y="46" font-size="22" font-weight="700" fill="#1F2937">Taz Unbriefed HQ</text>
-<text x="32" y="70" font-size="14" fill="#475569">10 of 50 tasks done · updated Oct 11, 2026</text>
+<text x="32" y="70" font-size="14" fill="#475569">10 of 49 tasks done · updated Oct 11, 2026</text>
 <text x="808" y="58" font-size="34" font-weight="700" fill="#0F766E" text-anchor="end">20%</text>
 <rect x="32" y="90" width="776" height="14" rx="7" fill="#E2E8F0"/>
 <rect x="32" y="90" width="155.2" height="14" rx="7" fill="#0F766E"/>
@@ -36,16 +36,16 @@
 <rect x="340" y="352" width="0.0" height="12" rx="6" fill="#475569"/>
 <text x="340" y="384" font-size="12.5" fill="#475569">0 of 7</text>
 <text x="808" y="363" font-size="13" font-weight="600" fill="#475569" text-anchor="end">Not started</text>
-<text x="32" y="416" font-size="15" font-weight="600" fill="#1F2937">Phase 5: Content and the build story</text>
-<text x="32" y="436" font-size="12.5" fill="#475569">Due Jan 31, 2027</text>
+<text x="32" y="416" font-size="15" font-weight="600" fill="#1F2937">Phase 5: Business tools</text>
+<text x="32" y="436" font-size="12.5" fill="#475569">Due Feb 15, 2027</text>
 <rect x="340" y="404" width="330" height="12" rx="6" fill="#E2E8F0"/>
 <rect x="340" y="404" width="0.0" height="12" rx="6" fill="#475569"/>
-<text x="340" y="436" font-size="12.5" fill="#475569">0 of 4</text>
+<text x="340" y="436" font-size="12.5" fill="#475569">0 of 5</text>
 <text x="808" y="415" font-size="13" font-weight="600" fill="#475569" text-anchor="end">Not started</text>
 <text x="32" y="468" font-size="15" font-weight="600" fill="#1F2937">Phase 6: Business tools</text>
 <text x="32" y="488" font-size="12.5" fill="#475569">Due Feb 15, 2027</text>
 <rect x="340" y="456" width="330" height="12" rx="6" fill="#E2E8F0"/>
 <rect x="340" y="456" width="0.0" height="12" rx="6" fill="#475569"/>
-<text x="340" y="488" font-size="12.5" fill="#475569">0 of 4</text>
+<text x="340" y="488" font-size="12.5" fill="#475569">0 of 2</text>
 <text x="808" y="467" font-size="13" font-weight="600" fill="#475569" text-anchor="end">Not started</text>
 </svg>

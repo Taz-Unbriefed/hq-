@@ -41,17 +41,17 @@
    "status": "Not started"
   },
   {
-   "title": "Phase 5: Content and the build story",
-   "due": "2027-01-31",
+   "title": "Phase 5: Business tools",
+   "due": "2027-02-15",
    "done": 0,
-   "total": 4,
+   "total": 5,
    "status": "Not started"
   },
   {
    "title": "Phase 6: Business tools",
    "due": "2027-02-15",
    "done": 0,
-   "total": 4,
+   "total": 2,
    "status": "Not started"
   }
  ],
@@ -797,7 +797,7 @@
    "number": 43,
    "title": "Publish the Permission to Speak Freely intro reel",
    "state": "closed",
-   "phase": "Phase 5: Content and the build story",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "content"
    ],
@@ -811,7 +811,7 @@
    "number": 44,
    "title": "Post the reasons-to-follow series",
    "state": "closed",
-   "phase": "Phase 5: Content and the build story",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "content"
    ],
@@ -825,7 +825,7 @@
    "number": 45,
    "title": "Finish the carousels for all three pillars",
    "state": "closed",
-   "phase": "Phase 5: Content and the build story",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "content"
    ],
@@ -839,7 +839,7 @@
    "number": 46,
    "title": "Set up the weekly video routine",
    "state": "open",
-   "phase": "Phase 5: Content and the build story",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "content"
    ],
@@ -852,22 +852,22 @@
   {
    "number": 47,
    "title": "Start the Run your BUMP build series",
-   "state": "open",
-   "phase": "Phase 5: Content and the build story",
+   "state": "closed",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "content"
    ],
    "url": "https://github.com/Taz-Unbriefed/hq-/issues/47",
    "body": "Show the app being built, the wins and the misses.\n\n<!-- keystone:due=2026-12-05 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=46 -->",
-   "closed": "",
+   "closed": "2026-10-11",
    "created": "2026-10-11",
-   "reason": ""
+   "reason": "not_planned"
   },
   {
    "number": 48,
    "title": "Add the coloring book link to YouTube",
    "state": "open",
-   "phase": "Phase 5: Content and the build story",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "content"
    ],
@@ -881,7 +881,7 @@
    "number": 49,
    "title": "Outline the Battle Rhythm book",
    "state": "open",
-   "phase": "Phase 5: Content and the build story",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "content"
    ],
@@ -895,7 +895,7 @@
    "number": 50,
    "title": "Decide where private business data lives",
    "state": "open",
-   "phase": "Phase 6: Business tools",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "business",
     "decision"
@@ -910,7 +910,7 @@
    "number": 51,
    "title": "Build the content creator calendar app",
    "state": "open",
-   "phase": "Phase 6: Business tools",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "build",
     "content"
