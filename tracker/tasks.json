@@ -70,6 +70,12 @@
       "title": "Phase 5: Content and the build story",
       "due": "2027-01-31",
       "description": "Taz Unbriefed posts, videos, and the Battle Rhythm story"
+    },
+    {
+      "key": "P6",
+      "title": "Phase 6: Business tools",
+      "due": "2027-02-15",
+      "description": "A content calendar app, a private finance ledger, and one business dashboard for reports"
     }
   ],
   "tasks": [
@@ -701,6 +707,62 @@
       "due": "2027-01-31",
       "after": [
         42
+      ]
+    },
+    {
+      "phase": "P6",
+      "title": "Decide where private business data lives",
+      "labels": [
+        "business",
+        "decision"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Finance and other private records can't go in a public repository. Pick a private home (private repo, or a private file kept off GitHub).",
+      "due": "2026-10-24"
+    },
+    {
+      "phase": "P6",
+      "title": "Build the content creator calendar app",
+      "labels": [
+        "build",
+        "content"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Plan, film, edit, and post dates for each video and short, by pillar and platform, with the Tue/Thu/Sat shorts schedule.",
+      "due": "2026-12-12"
+    },
+    {
+      "phase": "P6",
+      "title": "Build the finance ledger",
+      "labels": [
+        "build",
+        "business"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Money in and out by category, with receipts. Private: never in the public board.",
+      "due": "2026-11-25",
+      "after": [
+        13,
+        50
+      ]
+    },
+    {
+      "phase": "P6",
+      "title": "Build the business dashboard",
+      "labels": [
+        "build",
+        "business"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "One place for tasks, content, money, and calendar, with a report you can print or send.",
+      "due": "2027-02-12",
+      "after": [
+        51,
+        52
       ]
     }
   ]
