@@ -37,21 +37,21 @@
    "title": "Phase 4: Beta",
    "due": "2027-01-15",
    "done": 0,
-   "total": 7,
+   "total": 8,
    "status": "Not started"
   },
   {
    "title": "Phase 5: Business tools",
    "due": "2027-02-15",
    "done": 0,
-   "total": 5,
+   "total": 6,
    "status": "Not started"
   },
   {
    "title": "Phase 6: Business tools",
    "due": "2027-02-15",
    "done": 0,
-   "total": 2,
+   "total": 0,
    "status": "Not started"
   }
  ],
@@ -881,7 +881,7 @@
    "number": 49,
    "title": "Outline the Battle Rhythm book",
    "state": "open",
-   "phase": "Phase 5: Business tools",
+   "phase": "Phase 4: Beta",
    "labels": [
     "content"
    ],
@@ -925,7 +925,7 @@
    "number": 52,
    "title": "Build the finance ledger",
    "state": "open",
-   "phase": "Phase 6: Business tools",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "business",
     "build"
@@ -940,7 +940,7 @@
    "number": 53,
    "title": "Build the business dashboard",
    "state": "open",
-   "phase": "Phase 6: Business tools",
+   "phase": "Phase 5: Business tools",
    "labels": [
     "business",
     "build"
