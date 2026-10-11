@@ -204,6 +204,7 @@ def main():
         "attachments": load_attachments(),
         "documents": load_documents(),
         "calendar": json.loads(c.read_text()) if (c := ROOT / "tracker" / "calendar.json").exists() else None,
+        "content": json.loads(cp.read_text()) if (cp := ROOT / "tracker" / "content-published.json").exists() else [],
         "messages": json.loads(mm.read_text()) if (mm := ROOT / "tracker" / "messages.json").exists() else [],
         "budget": json.loads(b.read_text()) if (b := ROOT / "tracker" / "budget.json").exists() else None,
         "tasks": tasks,
