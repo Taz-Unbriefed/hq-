@@ -46,6 +46,13 @@
    "done": 0,
    "total": 7,
    "status": "Not started"
+  },
+  {
+   "title": "Phase 6: Business tools",
+   "due": "2027-02-15",
+   "done": 0,
+   "total": 4,
+   "status": "Not started"
   }
  ],
  "labels": {
@@ -850,6 +857,66 @@
    ],
    "url": "https://github.com/Taz-Unbriefed/hq-/issues/49",
    "body": "Built from the build series and the beta.\n\n<!-- keystone:due=2027-01-31 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=42 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 50,
+   "title": "Decide where private business data lives",
+   "state": "open",
+   "phase": "Phase 6: Business tools",
+   "labels": [
+    "business",
+    "decision"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/50",
+   "body": "Finance and other private records can't go in a public repository. Pick a private home (private repo, or a private file kept off GitHub).\n\n<!-- keystone:due=2026-10-24 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 51,
+   "title": "Build the content creator calendar app",
+   "state": "open",
+   "phase": "Phase 6: Business tools",
+   "labels": [
+    "build",
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/51",
+   "body": "Plan, film, edit, and post dates for each video and short, by pillar and platform, with the Tue/Thu/Sat shorts schedule.\n\n<!-- keystone:due=2026-12-12 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 52,
+   "title": "Build the finance ledger",
+   "state": "open",
+   "phase": "Phase 6: Business tools",
+   "labels": [
+    "business",
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/52",
+   "body": "Money in and out by category, with receipts. Private: never in the public board.\n\n<!-- keystone:due=2026-11-25 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=13,50 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 53,
+   "title": "Build the business dashboard",
+   "state": "open",
+   "phase": "Phase 6: Business tools",
+   "labels": [
+    "business",
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/53",
+   "body": "One place for tasks, content, money, and calendar, with a report you can print or send.\n\n<!-- keystone:due=2027-02-12 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=51,52 -->",
    "closed": "",
    "created": "2026-10-11",
    "reason": ""
