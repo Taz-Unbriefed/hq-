@@ -1,0 +1,89 @@
+{
+  "levels": [
+    {
+      "id": "study",
+      "name": "Company-wide"
+    },
+    {
+      "id": "leadership",
+      "name": "Leadership"
+    },
+    {
+      "id": "department",
+      "name": "Department"
+    }
+  ],
+  "meetings": [
+    {
+      "id": "mt1",
+      "title": "Weekly project check-in",
+      "level": "study",
+      "team": "",
+      "start": "2026-10-17",
+      "until": "2027-01-30",
+      "time": "10:00",
+      "minutes": 45,
+      "every": 1,
+      "attendees": [
+        "taz"
+      ],
+      "location": "Home office",
+      "notes": "Tracker review: what's done, what's blocked, next week's plan."
+    },
+    {
+      "id": "mt2",
+      "title": "Content batch session",
+      "level": "study",
+      "team": "",
+      "start": "2026-10-14",
+      "until": "2027-01-27",
+      "time": "10:00",
+      "minutes": 120,
+      "every": 2,
+      "attendees": [
+        "taz"
+      ],
+      "location": "Studio",
+      "notes": "Film in a high-energy window; schedule the shorts ahead."
+    },
+    {
+      "id": "mt3",
+      "title": "Business review",
+      "level": "leadership",
+      "team": "Leadership",
+      "start": "2026-10-25",
+      "until": "2027-01-31",
+      "time": "16:00",
+      "minutes": 30,
+      "every": 2,
+      "attendees": [
+        "taz"
+      ],
+      "location": "Home office",
+      "notes": "Money, deadlines, and decisions waiting."
+    },
+    {
+      "id": "mt4",
+      "title": "Beta launch: send the link",
+      "level": "study",
+      "team": "",
+      "start": "2026-12-28",
+      "until": "",
+      "time": "10:00",
+      "minutes": 60,
+      "every": 0,
+      "attendees": [
+        "taz"
+      ],
+      "location": "",
+      "notes": "See task: Send the beta link."
+    }
+  ],
+  "closed": [
+    {
+      "from": "2026-12-24",
+      "to": "2026-12-25",
+      "title": "Holiday break"
+    }
+  ]
+}

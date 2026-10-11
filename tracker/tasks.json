@@ -1,0 +1,707 @@
+{
+  "project": "Taz Unbriefed HQ",
+  "company": "Taz Unbriefed",
+  "summary": "How Taz Unbriefed runs its work: building Battle Rhythm, the structure app for veterans with ADHD, and the content brand that tells the story.",
+  "labels": [
+    {
+      "name": "business",
+      "color": "5B5853",
+      "description": "Company setup, legal, money, and admin"
+    },
+    {
+      "name": "design",
+      "color": "6250D6",
+      "description": "Battle Rhythm screens, flows, and specs"
+    },
+    {
+      "name": "build",
+      "color": "23785A",
+      "description": "Building the Battle Rhythm app"
+    },
+    {
+      "name": "testing",
+      "color": "2A78D6",
+      "description": "Device testing and the beta"
+    },
+    {
+      "name": "content",
+      "color": "EB6834",
+      "description": "Taz Unbriefed videos, posts, and the book"
+    },
+    {
+      "name": "decision",
+      "color": "EDA100",
+      "description": "Needs a choice before work can move"
+    }
+  ],
+  "phases": [
+    {
+      "key": "P0",
+      "title": "Phase 0: Foundation",
+      "due": "2026-10-11",
+      "description": "Brand, domain, email, business plan, and the Battle Rhythm concept"
+    },
+    {
+      "key": "P1",
+      "title": "Phase 1: Business setup",
+      "due": "2026-11-30",
+      "description": "LLC, banking, funding research, budget, and legal basics"
+    },
+    {
+      "key": "P2",
+      "title": "Phase 2: Battle Rhythm design",
+      "due": "2026-11-15",
+      "description": "The B.U.M.P. flow, screens, and safety features on paper"
+    },
+    {
+      "key": "P3",
+      "title": "Phase 3: Build the app",
+      "due": "2026-12-20",
+      "description": "A working first version on iPhone and Android"
+    },
+    {
+      "key": "P4",
+      "title": "Phase 4: Beta",
+      "due": "2027-01-15",
+      "description": "10 to 20 friends test it and answer a survey"
+    },
+    {
+      "key": "P5",
+      "title": "Phase 5: Content and the build story",
+      "due": "2027-01-31",
+      "description": "Taz Unbriefed posts, videos, and the Battle Rhythm story"
+    }
+  ],
+  "tasks": [
+    {
+      "phase": "P0",
+      "title": "Set the brand name and tagline",
+      "labels": [
+        "business",
+        "content"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "Taz Unbriefed: the stuff they don't brief you on."
+    },
+    {
+      "phase": "P0",
+      "title": "Build the brand kit",
+      "labels": [
+        "content"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "Logo, colors, and fonts in one brand sheet."
+    },
+    {
+      "phase": "P0",
+      "title": "Buy the domain",
+      "labels": [
+        "business"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "tazunbriefed.com"
+    },
+    {
+      "phase": "P0",
+      "title": "Set up business email",
+      "labels": [
+        "business"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "Google Workspace on the company domain."
+    },
+    {
+      "phase": "P0",
+      "title": "Claim the social handles",
+      "labels": [
+        "content"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "Instagram, TikTok, and YouTube."
+    },
+    {
+      "phase": "P0",
+      "title": "Name the app and its method",
+      "labels": [
+        "design",
+        "decision"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "Battle Rhythm, built on B.U.M.P.: Breathe, Unload, Map, Push."
+    },
+    {
+      "phase": "P0",
+      "title": "Design the Battle Rhythm logo",
+      "labels": [
+        "design"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "Sound-wave mark, five bars."
+    },
+    {
+      "phase": "P0",
+      "title": "Write the business plan",
+      "labels": [
+        "business"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "First full draft."
+    },
+    {
+      "phase": "P0",
+      "title": "Write the app structure",
+      "labels": [
+        "design"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "Tabs, first-week setup, notifications, and the buddy feature."
+    },
+    {
+      "phase": "P0",
+      "title": "Create the GitHub organization and tracker",
+      "labels": [
+        "business"
+      ],
+      "done": true,
+      "owner": "taz",
+      "body": "This tracker."
+    },
+    {
+      "phase": "P1",
+      "title": "Register the LLC",
+      "labels": [
+        "business"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Form the company in Maryland.",
+      "due": "2026-10-30"
+    },
+    {
+      "phase": "P1",
+      "title": "Get an EIN",
+      "labels": [
+        "business"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Federal tax ID for the company.",
+      "due": "2026-11-04",
+      "after": [
+        11
+      ]
+    },
+    {
+      "phase": "P1",
+      "title": "Open a business bank account",
+      "labels": [
+        "business"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Keep business money separate from day one.",
+      "due": "2026-11-11",
+      "after": [
+        12
+      ]
+    },
+    {
+      "phase": "P1",
+      "title": "Research veteran small-business funding",
+      "labels": [
+        "business"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Compare loan and grant programs for veteran-owned businesses.",
+      "due": "2026-11-13"
+    },
+    {
+      "phase": "P1",
+      "title": "Set the first-year budget",
+      "labels": [
+        "business",
+        "decision"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "What the app, content, and tools will cost in year one.",
+      "due": "2026-11-20",
+      "after": [
+        14
+      ]
+    },
+    {
+      "phase": "P1",
+      "title": "Check the Battle Rhythm name for trademark conflicts",
+      "labels": [
+        "business",
+        "decision"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Search before the beta goes out.",
+      "due": "2026-11-06"
+    },
+    {
+      "phase": "P1",
+      "title": "Write the privacy policy and terms",
+      "labels": [
+        "business"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Needed before anyone outside the company uses the app.",
+      "due": "2026-11-25"
+    },
+    {
+      "phase": "P1",
+      "title": "Pick a bookkeeping tool",
+      "labels": [
+        "business",
+        "decision"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Simple enough to keep up with weekly.",
+      "due": "2026-11-18",
+      "after": [
+        13
+      ]
+    },
+    {
+      "phase": "P2",
+      "title": "Map the B.U.M.P. daily flow",
+      "labels": [
+        "design"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Breathe (check-in), Unload (brain dump), Map (time blocks), Push (one next move).",
+      "due": "2026-10-21",
+      "after": [
+        6
+      ]
+    },
+    {
+      "phase": "P2",
+      "title": "Wireframe the five tabs",
+      "labels": [
+        "design"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Dump, Today, Week, Rules, and Me.",
+      "due": "2026-10-30",
+      "after": [
+        19
+      ]
+    },
+    {
+      "phase": "P2",
+      "title": "Design the first-week setup",
+      "labels": [
+        "design"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Guided at first, then free.",
+      "due": "2026-11-04",
+      "after": [
+        20
+      ]
+    },
+    {
+      "phase": "P2",
+      "title": "Spec the crisis button",
+      "labels": [
+        "design"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Works without AI or internet: hotline, 911, or an emergency contact in one tap.",
+      "due": "2026-10-28"
+    },
+    {
+      "phase": "P2",
+      "title": "Design the daily check-in",
+      "labels": [
+        "design"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "How are you feeling, in under 30 seconds.",
+      "due": "2026-11-02",
+      "after": [
+        19
+      ]
+    },
+    {
+      "phase": "P2",
+      "title": "Design the optional battle buddy view",
+      "labels": [
+        "design"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "A buddy sees the check-in and the next move, nothing else.",
+      "due": "2026-11-10",
+      "after": [
+        23
+      ]
+    },
+    {
+      "phase": "P2",
+      "title": "Write the notification settings",
+      "labels": [
+        "design"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "All three modes, with quiet hours and sleep mode.",
+      "due": "2026-11-12",
+      "after": [
+        20
+      ]
+    },
+    {
+      "phase": "P2",
+      "title": "Decide what data the app stores",
+      "labels": [
+        "design",
+        "decision"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Keep personal data to the minimum the features need.",
+      "due": "2026-11-14"
+    },
+    {
+      "phase": "P3",
+      "title": "Choose the cross-platform app stack",
+      "labels": [
+        "build",
+        "decision"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "One codebase for iPhone and Android.",
+      "due": "2026-11-10"
+    },
+    {
+      "phase": "P3",
+      "title": "Set up the development environment",
+      "labels": [
+        "build"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Code, test phones, and an AI coding assistant.",
+      "due": "2026-11-17",
+      "after": [
+        27
+      ]
+    },
+    {
+      "phase": "P3",
+      "title": "Build the brain dump (Unload)",
+      "labels": [
+        "build"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Type or talk; AI sorts it into tasks.",
+      "due": "2026-11-26",
+      "after": [
+        28,
+        20
+      ]
+    },
+    {
+      "phase": "P3",
+      "title": "Build Today with time blocks (Map)",
+      "labels": [
+        "build"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Drag tasks into the day.",
+      "due": "2026-12-03",
+      "after": [
+        28,
+        20
+      ]
+    },
+    {
+      "phase": "P3",
+      "title": "Build personal rules",
+      "labels": [
+        "build"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Weekly time caps per activity, set by the user.",
+      "due": "2026-12-08",
+      "after": [
+        30
+      ]
+    },
+    {
+      "phase": "P3",
+      "title": "Build the check-in (Breathe) and next move (Push)",
+      "labels": [
+        "build"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "The start and end of every BUMP.",
+      "due": "2026-12-10",
+      "after": [
+        28,
+        23
+      ]
+    },
+    {
+      "phase": "P3",
+      "title": "Build the crisis button",
+      "labels": [
+        "build"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Tested with the phone offline.",
+      "due": "2026-12-04",
+      "after": [
+        28,
+        22
+      ]
+    },
+    {
+      "phase": "P3",
+      "title": "Build start-of-day and end-of-day alarms",
+      "labels": [
+        "build"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Plus sleep mode.",
+      "due": "2026-12-15",
+      "after": [
+        28,
+        25
+      ]
+    },
+    {
+      "phase": "P3",
+      "title": "Test on iPhone and Android",
+      "labels": [
+        "build",
+        "testing"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Every screen on both phones.",
+      "due": "2026-12-19",
+      "after": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "phase": "P4",
+      "title": "Write the beta survey",
+      "labels": [
+        "testing"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Ten questions or fewer.",
+      "due": "2026-12-15"
+    },
+    {
+      "phase": "P4",
+      "title": "Recruit 10 to 20 beta testers",
+      "labels": [
+        "testing"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Friends first, veterans with ADHD where possible.",
+      "due": "2026-12-22"
+    },
+    {
+      "phase": "P4",
+      "title": "Send the beta link",
+      "labels": [
+        "testing"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "With the survey and a one-page how-to.",
+      "due": "2026-12-28",
+      "after": [
+        35,
+        36,
+        37,
+        17
+      ]
+    },
+    {
+      "phase": "P4",
+      "title": "Run my own BUMP every day of the beta",
+      "labels": [
+        "testing"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Use it the way testers will.",
+      "due": "2027-01-11",
+      "after": [
+        38
+      ]
+    },
+    {
+      "phase": "P4",
+      "title": "Collect the survey answers",
+      "labels": [
+        "testing"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Follow up with anyone who hasn't answered.",
+      "due": "2027-01-11",
+      "after": [
+        38
+      ]
+    },
+    {
+      "phase": "P4",
+      "title": "Fix the top five issues",
+      "labels": [
+        "build",
+        "testing"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Ranked by how many testers hit them.",
+      "due": "2027-01-14",
+      "after": [
+        40
+      ]
+    },
+    {
+      "phase": "P4",
+      "title": "Write the beta results",
+      "labels": [
+        "testing",
+        "content"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "What worked, what didn't, what's next.",
+      "due": "2027-01-15",
+      "after": [
+        40
+      ]
+    },
+    {
+      "phase": "P5",
+      "title": "Publish the Permission to Speak Freely intro reel",
+      "labels": [
+        "content"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Short form for Instagram, TikTok, and YouTube Shorts.",
+      "due": "2026-10-24"
+    },
+    {
+      "phase": "P5",
+      "title": "Post the reasons-to-follow series",
+      "labels": [
+        "content"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Four posts, then the combined post.",
+      "due": "2026-11-07",
+      "after": [
+        43
+      ]
+    },
+    {
+      "phase": "P5",
+      "title": "Finish the carousels for all three pillars",
+      "labels": [
+        "content"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "The Unbriefed, Day to Day, and The Deep Well.",
+      "due": "2026-11-21"
+    },
+    {
+      "phase": "P5",
+      "title": "Set up the weekly video routine",
+      "labels": [
+        "content"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "One long video a week, cut into three shorts for Tuesday, Thursday, and Saturday.",
+      "due": "2026-11-14"
+    },
+    {
+      "phase": "P5",
+      "title": "Start the Run your BUMP build series",
+      "labels": [
+        "content"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Show the app being built, the wins and the misses.",
+      "due": "2026-12-05",
+      "after": [
+        46
+      ]
+    },
+    {
+      "phase": "P5",
+      "title": "Add the coloring book link to YouTube",
+      "labels": [
+        "content"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "In the channel description.",
+      "due": "2026-10-31"
+    },
+    {
+      "phase": "P5",
+      "title": "Outline the Battle Rhythm book",
+      "labels": [
+        "content"
+      ],
+      "done": false,
+      "owner": "taz",
+      "body": "Built from the build series and the beta.",
+      "due": "2027-01-31",
+      "after": [
+        42
+      ]
+    }
+  ]
+}

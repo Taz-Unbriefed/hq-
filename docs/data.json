@@ -1,0 +1,858 @@
+{
+ "project": "Taz Unbriefed HQ",
+ "company": "Taz Unbriefed",
+ "summary": "How Taz Unbriefed runs its work: building Battle Rhythm, the structure app for veterans with ADHD, and the content brand that tells the story.",
+ "repo": "",
+ "updated": "2026-10-11",
+ "phases": [
+  {
+   "title": "Phase 0: Foundation",
+   "due": "2026-10-11",
+   "done": 10,
+   "total": 10,
+   "status": "Complete"
+  },
+  {
+   "title": "Phase 1: Business setup",
+   "due": "2026-11-30",
+   "done": 0,
+   "total": 8,
+   "status": "Not started"
+  },
+  {
+   "title": "Phase 2: Battle Rhythm design",
+   "due": "2026-11-15",
+   "done": 0,
+   "total": 8,
+   "status": "Not started"
+  },
+  {
+   "title": "Phase 3: Build the app",
+   "due": "2026-12-20",
+   "done": 0,
+   "total": 9,
+   "status": "Not started"
+  },
+  {
+   "title": "Phase 4: Beta",
+   "due": "2027-01-15",
+   "done": 0,
+   "total": 7,
+   "status": "Not started"
+  },
+  {
+   "title": "Phase 5: Content and the build story",
+   "due": "2027-01-31",
+   "done": 0,
+   "total": 7,
+   "status": "Not started"
+  }
+ ],
+ "labels": {
+  "business": "#5B5853",
+  "design": "#6250D6",
+  "build": "#23785A",
+  "testing": "#2A78D6",
+  "content": "#EB6834",
+  "decision": "#EDA100"
+ },
+ "team": [
+  {
+   "id": "taz",
+   "name": "Taz White",
+   "title": "Founder and Program Lead",
+   "team": "Leadership"
+  }
+ ],
+ "attachments": {},
+ "documents": [],
+ "calendar": {
+  "levels": [
+   {
+    "id": "study",
+    "name": "Company-wide"
+   },
+   {
+    "id": "leadership",
+    "name": "Leadership"
+   },
+   {
+    "id": "department",
+    "name": "Department"
+   }
+  ],
+  "meetings": [
+   {
+    "id": "mt1",
+    "title": "Weekly project check-in",
+    "level": "study",
+    "team": "",
+    "start": "2026-10-17",
+    "until": "2027-01-30",
+    "time": "10:00",
+    "minutes": 45,
+    "every": 1,
+    "attendees": [
+     "taz"
+    ],
+    "location": "Home office",
+    "notes": "Tracker review: what's done, what's blocked, next week's plan."
+   },
+   {
+    "id": "mt2",
+    "title": "Content batch session",
+    "level": "study",
+    "team": "",
+    "start": "2026-10-14",
+    "until": "2027-01-27",
+    "time": "10:00",
+    "minutes": 120,
+    "every": 2,
+    "attendees": [
+     "taz"
+    ],
+    "location": "Studio",
+    "notes": "Film in a high-energy window; schedule the shorts ahead."
+   },
+   {
+    "id": "mt3",
+    "title": "Business review",
+    "level": "leadership",
+    "team": "Leadership",
+    "start": "2026-10-25",
+    "until": "2027-01-31",
+    "time": "16:00",
+    "minutes": 30,
+    "every": 2,
+    "attendees": [
+     "taz"
+    ],
+    "location": "Home office",
+    "notes": "Money, deadlines, and decisions waiting."
+   },
+   {
+    "id": "mt4",
+    "title": "Beta launch: send the link",
+    "level": "study",
+    "team": "",
+    "start": "2026-12-28",
+    "until": "",
+    "time": "10:00",
+    "minutes": 60,
+    "every": 0,
+    "attendees": [
+     "taz"
+    ],
+    "location": "",
+    "notes": "See task: Send the beta link."
+   }
+  ],
+  "closed": [
+   {
+    "from": "2026-12-24",
+    "to": "2026-12-25",
+    "title": "Holiday break"
+   }
+  ]
+ },
+ "messages": [],
+ "budget": null,
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Set the brand name and tagline",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business",
+    "content"
+   ],
+   "url": "#",
+   "body": "Taz Unbriefed: the stuff they don't brief you on.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 2,
+   "title": "Build the brand kit",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "content"
+   ],
+   "url": "#",
+   "body": "Logo, colors, and fonts in one brand sheet.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 3,
+   "title": "Buy the domain",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business"
+   ],
+   "url": "#",
+   "body": "tazunbriefed.com\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 4,
+   "title": "Set up business email",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business"
+   ],
+   "url": "#",
+   "body": "Google Workspace on the company domain.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 5,
+   "title": "Claim the social handles",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "content"
+   ],
+   "url": "#",
+   "body": "Instagram, TikTok, and YouTube.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 6,
+   "title": "Name the app and its method",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "design",
+    "decision"
+   ],
+   "url": "#",
+   "body": "Battle Rhythm, built on B.U.M.P.: Breathe, Unload, Map, Push.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 7,
+   "title": "Design the Battle Rhythm logo",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "design"
+   ],
+   "url": "#",
+   "body": "Sound-wave mark, five bars.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 8,
+   "title": "Write the business plan",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business"
+   ],
+   "url": "#",
+   "body": "First full draft.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 9,
+   "title": "Write the app structure",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "design"
+   ],
+   "url": "#",
+   "body": "Tabs, first-week setup, notifications, and the buddy feature.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 10,
+   "title": "Create the GitHub organization and tracker",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business"
+   ],
+   "url": "#",
+   "body": "This tracker.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 11,
+   "title": "Register the LLC",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "#",
+   "body": "Form the company in Maryland.\n\n<!-- keystone:due=2026-10-30 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 12,
+   "title": "Get an EIN",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "#",
+   "body": "Federal tax ID for the company.\n\n<!-- keystone:due=2026-11-04 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=11 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 13,
+   "title": "Open a business bank account",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "#",
+   "body": "Keep business money separate from day one.\n\n<!-- keystone:due=2026-11-11 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=12 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 14,
+   "title": "Research veteran small-business funding",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "#",
+   "body": "Compare loan and grant programs for veteran-owned businesses.\n\n<!-- keystone:due=2026-11-13 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 15,
+   "title": "Set the first-year budget",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business",
+    "decision"
+   ],
+   "url": "#",
+   "body": "What the app, content, and tools will cost in year one.\n\n<!-- keystone:due=2026-11-20 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=14 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 16,
+   "title": "Check the Battle Rhythm name for trademark conflicts",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business",
+    "decision"
+   ],
+   "url": "#",
+   "body": "Search before the beta goes out.\n\n<!-- keystone:due=2026-11-06 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 17,
+   "title": "Write the privacy policy and terms",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "#",
+   "body": "Needed before anyone outside the company uses the app.\n\n<!-- keystone:due=2026-11-25 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 18,
+   "title": "Pick a bookkeeping tool",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business",
+    "decision"
+   ],
+   "url": "#",
+   "body": "Simple enough to keep up with weekly.\n\n<!-- keystone:due=2026-11-18 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=13 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 19,
+   "title": "Map the B.U.M.P. daily flow",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "#",
+   "body": "Breathe (check-in), Unload (brain dump), Map (time blocks), Push (one next move).\n\n<!-- keystone:due=2026-10-21 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=6 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 20,
+   "title": "Wireframe the five tabs",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "#",
+   "body": "Dump, Today, Week, Rules, and Me.\n\n<!-- keystone:due=2026-10-30 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=19 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 21,
+   "title": "Design the first-week setup",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "#",
+   "body": "Guided at first, then free.\n\n<!-- keystone:due=2026-11-04 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=20 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 22,
+   "title": "Spec the crisis button",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "#",
+   "body": "Works without AI or internet: hotline, 911, or an emergency contact in one tap.\n\n<!-- keystone:due=2026-10-28 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 23,
+   "title": "Design the daily check-in",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "#",
+   "body": "How are you feeling, in under 30 seconds.\n\n<!-- keystone:due=2026-11-02 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=19 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 24,
+   "title": "Design the optional battle buddy view",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "#",
+   "body": "A buddy sees the check-in and the next move, nothing else.\n\n<!-- keystone:due=2026-11-10 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=23 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 25,
+   "title": "Write the notification settings",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "#",
+   "body": "All three modes, with quiet hours and sleep mode.\n\n<!-- keystone:due=2026-11-12 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=20 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 26,
+   "title": "Decide what data the app stores",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design",
+    "decision"
+   ],
+   "url": "#",
+   "body": "Keep personal data to the minimum the features need.\n\n<!-- keystone:due=2026-11-14 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 27,
+   "title": "Choose the cross-platform app stack",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build",
+    "decision"
+   ],
+   "url": "#",
+   "body": "One codebase for iPhone and Android.\n\n<!-- keystone:due=2026-11-10 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 28,
+   "title": "Set up the development environment",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "#",
+   "body": "Code, test phones, and an AI coding assistant.\n\n<!-- keystone:due=2026-11-17 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=27 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 29,
+   "title": "Build the brain dump (Unload)",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "#",
+   "body": "Type or talk; AI sorts it into tasks.\n\n<!-- keystone:due=2026-11-26 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,20 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 30,
+   "title": "Build Today with time blocks (Map)",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "#",
+   "body": "Drag tasks into the day.\n\n<!-- keystone:due=2026-12-03 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,20 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 31,
+   "title": "Build personal rules",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "#",
+   "body": "Weekly time caps per activity, set by the user.\n\n<!-- keystone:due=2026-12-08 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=30 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 32,
+   "title": "Build the check-in (Breathe) and next move (Push)",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "#",
+   "body": "The start and end of every BUMP.\n\n<!-- keystone:due=2026-12-10 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,23 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 33,
+   "title": "Build the crisis button",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "#",
+   "body": "Tested with the phone offline.\n\n<!-- keystone:due=2026-12-04 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,22 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 34,
+   "title": "Build start-of-day and end-of-day alarms",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "#",
+   "body": "Plus sleep mode.\n\n<!-- keystone:due=2026-12-15 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,25 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 35,
+   "title": "Test on iPhone and Android",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build",
+    "testing"
+   ],
+   "url": "#",
+   "body": "Every screen on both phones.\n\n<!-- keystone:due=2026-12-19 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=29,30,31,32,33,34 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 36,
+   "title": "Write the beta survey",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "#",
+   "body": "Ten questions or fewer.\n\n<!-- keystone:due=2026-12-15 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 37,
+   "title": "Recruit 10 to 20 beta testers",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "#",
+   "body": "Friends first, veterans with ADHD where possible.\n\n<!-- keystone:due=2026-12-22 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 38,
+   "title": "Send the beta link",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "#",
+   "body": "With the survey and a one-page how-to.\n\n<!-- keystone:due=2026-12-28 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=35,36,37,17 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 39,
+   "title": "Run my own BUMP every day of the beta",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "#",
+   "body": "Use it the way testers will.\n\n<!-- keystone:due=2027-01-11 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=38 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 40,
+   "title": "Collect the survey answers",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "#",
+   "body": "Follow up with anyone who hasn't answered.\n\n<!-- keystone:due=2027-01-11 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=38 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 41,
+   "title": "Fix the top five issues",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "build",
+    "testing"
+   ],
+   "url": "#",
+   "body": "Ranked by how many testers hit them.\n\n<!-- keystone:due=2027-01-14 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=40 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 42,
+   "title": "Write the beta results",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing",
+    "content"
+   ],
+   "url": "#",
+   "body": "What worked, what didn't, what's next.\n\n<!-- keystone:due=2027-01-15 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=40 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 43,
+   "title": "Publish the Permission to Speak Freely intro reel",
+   "state": "open",
+   "phase": "Phase 5: Content and the build story",
+   "labels": [
+    "content"
+   ],
+   "url": "#",
+   "body": "Short form for Instagram, TikTok, and YouTube Shorts.\n\n<!-- keystone:due=2026-10-24 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 44,
+   "title": "Post the reasons-to-follow series",
+   "state": "open",
+   "phase": "Phase 5: Content and the build story",
+   "labels": [
+    "content"
+   ],
+   "url": "#",
+   "body": "Four posts, then the combined post.\n\n<!-- keystone:due=2026-11-07 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=43 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 45,
+   "title": "Finish the carousels for all three pillars",
+   "state": "open",
+   "phase": "Phase 5: Content and the build story",
+   "labels": [
+    "content"
+   ],
+   "url": "#",
+   "body": "The Unbriefed, Day to Day, and The Deep Well.\n\n<!-- keystone:due=2026-11-21 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 46,
+   "title": "Set up the weekly video routine",
+   "state": "open",
+   "phase": "Phase 5: Content and the build story",
+   "labels": [
+    "content"
+   ],
+   "url": "#",
+   "body": "One long video a week, cut into three shorts for Tuesday, Thursday, and Saturday.\n\n<!-- keystone:due=2026-11-14 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 47,
+   "title": "Start the Run your BUMP build series",
+   "state": "open",
+   "phase": "Phase 5: Content and the build story",
+   "labels": [
+    "content"
+   ],
+   "url": "#",
+   "body": "Show the app being built, the wins and the misses.\n\n<!-- keystone:due=2026-12-05 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=46 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 48,
+   "title": "Add the coloring book link to YouTube",
+   "state": "open",
+   "phase": "Phase 5: Content and the build story",
+   "labels": [
+    "content"
+   ],
+   "url": "#",
+   "body": "In the channel description.\n\n<!-- keystone:due=2026-10-31 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  },
+  {
+   "number": 49,
+   "title": "Outline the Battle Rhythm book",
+   "state": "open",
+   "phase": "Phase 5: Content and the build story",
+   "labels": [
+    "content"
+   ],
+   "url": "#",
+   "body": "Built from the build series and the beta.\n\n<!-- keystone:due=2027-01-31 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=42 -->",
+   "closed": "",
+   "created": "",
+   "reason": ""
+  }
+ ]
+}
