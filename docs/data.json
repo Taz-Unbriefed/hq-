@@ -44,7 +44,7 @@
    "title": "Phase 5: Content and the build story",
    "due": "2027-01-31",
    "done": 0,
-   "total": 7,
+   "total": 4,
    "status": "Not started"
   },
   {
@@ -796,44 +796,44 @@
   {
    "number": 43,
    "title": "Publish the Permission to Speak Freely intro reel",
-   "state": "open",
+   "state": "closed",
    "phase": "Phase 5: Content and the build story",
    "labels": [
     "content"
    ],
    "url": "https://github.com/Taz-Unbriefed/hq-/issues/43",
    "body": "Short form for Instagram, TikTok, and YouTube Shorts.\n\n<!-- keystone:due=2026-10-24 -->\n<!-- keystone:owner=taz -->",
-   "closed": "",
+   "closed": "2026-10-11",
    "created": "2026-10-11",
-   "reason": ""
+   "reason": "not_planned"
   },
   {
    "number": 44,
    "title": "Post the reasons-to-follow series",
-   "state": "open",
+   "state": "closed",
    "phase": "Phase 5: Content and the build story",
    "labels": [
     "content"
    ],
    "url": "https://github.com/Taz-Unbriefed/hq-/issues/44",
    "body": "Four posts, then the combined post.\n\n<!-- keystone:due=2026-11-07 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=43 -->",
-   "closed": "",
+   "closed": "2026-10-11",
    "created": "2026-10-11",
-   "reason": ""
+   "reason": "not_planned"
   },
   {
    "number": 45,
    "title": "Finish the carousels for all three pillars",
-   "state": "open",
+   "state": "closed",
    "phase": "Phase 5: Content and the build story",
    "labels": [
     "content"
    ],
    "url": "https://github.com/Taz-Unbriefed/hq-/issues/45",
    "body": "The Unbriefed, Day to Day, and The Deep Well.\n\n<!-- keystone:due=2026-11-21 -->\n<!-- keystone:owner=taz -->",
-   "closed": "",
+   "closed": "2026-10-11",
    "created": "2026-10-11",
-   "reason": ""
+   "reason": "not_planned"
   },
   {
    "number": 46,
