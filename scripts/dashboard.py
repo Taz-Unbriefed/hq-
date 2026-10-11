@@ -54,7 +54,7 @@ def load_local_preview():
     plan = json.loads((ROOT / "tracker" / "tasks.json").read_text())
     phases, decisions, tasks, n = [], [], [], 0
     for p in plan["phases"]:
-        mine = [t for t in plan["tasks"] if t["phase"] == p["key"]]
+        mine = [t for t in plan["tasks"] if t["phase"] == p["key"] and not t.get("moved")]
         open_items = []
         for t in mine:
             n += 1

@@ -62,20 +62,14 @@
     {
       "key": "P4",
       "title": "Phase 4: Beta",
-      "due": "2027-01-15",
+      "due": "2027-01-31",
       "description": "10 to 20 friends test it and answer a survey"
     },
     {
       "key": "P5",
-      "title": "Phase 5: Content and the build story",
-      "due": "2027-01-31",
-      "description": "Taz Unbriefed posts, videos, and the Battle Rhythm story"
-    },
-    {
-      "key": "P6",
-      "title": "Phase 6: Business tools",
+      "title": "Phase 5: Business tools",
       "due": "2027-02-15",
-      "description": "A content calendar app, a private finance ledger, and one business dashboard for reports"
+      "description": "The tools that run the business: content calendar, private finance ledger, and the private organization dashboard"
     }
   ],
   "tasks": [
@@ -632,7 +626,8 @@
       "done": false,
       "owner": "taz",
       "body": "Short form for Instagram, TikTok, and YouTube Shorts.",
-      "due": "2026-10-24"
+      "due": "2026-10-24",
+      "moved": "content"
     },
     {
       "phase": "P5",
@@ -646,7 +641,8 @@
       "due": "2026-11-07",
       "after": [
         43
-      ]
+      ],
+      "moved": "content"
     },
     {
       "phase": "P5",
@@ -657,7 +653,8 @@
       "done": false,
       "owner": "taz",
       "body": "The Unbriefed, Day to Day, and The Deep Well.",
-      "due": "2026-11-21"
+      "due": "2026-11-21",
+      "moved": "content"
     },
     {
       "phase": "P5",
@@ -682,7 +679,8 @@
       "due": "2026-12-05",
       "after": [
         46
-      ]
+      ],
+      "moved": "content"
     },
     {
       "phase": "P5",
@@ -696,7 +694,7 @@
       "due": "2026-10-31"
     },
     {
-      "phase": "P5",
+      "phase": "P4",
       "title": "Outline the Battle Rhythm book",
       "labels": [
         "content"
@@ -710,31 +708,31 @@
       ]
     },
     {
-      "phase": "P6",
+      "phase": "P5",
       "title": "Decide where private business data lives",
       "labels": [
         "business",
         "decision"
       ],
-      "done": false,
+      "done": true,
       "owner": "taz",
       "body": "Finance and other private records can't go in a public repository. Pick a private home (private repo, or a private file kept off GitHub).",
       "due": "2026-10-24"
     },
     {
-      "phase": "P6",
+      "phase": "P5",
       "title": "Build the content creator calendar app",
       "labels": [
         "build",
         "content"
       ],
-      "done": false,
+      "done": true,
       "owner": "taz",
       "body": "Plan, film, edit, and post dates for each video and short, by pillar and platform, with the Tue/Thu/Sat shorts schedule.",
       "due": "2026-12-12"
     },
     {
-      "phase": "P6",
+      "phase": "P5",
       "title": "Build the finance ledger",
       "labels": [
         "build",
@@ -742,7 +740,7 @@
       ],
       "done": false,
       "owner": "taz",
-      "body": "Money in and out by category, with receipts. Private: never in the public board.",
+      "body": "Money in and out by category, with receipts, plus a list of every subscription the business pays for (what it is, cost, how often, renewal date). Private: lives in hq-private, never on the public board. Opens from the organization dashboard.",
       "due": "2026-11-25",
       "after": [
         13,
@@ -750,15 +748,15 @@
       ]
     },
     {
-      "phase": "P6",
-      "title": "Build the business dashboard",
+      "phase": "P5",
+      "title": "Build the organization dashboard",
       "labels": [
         "build",
         "business"
       ],
       "done": false,
       "owner": "taz",
-      "body": "One place for tasks, content, money, and calendar, with a report you can print or send.",
+      "body": "One private home page for the business, visible only with the owner key. Links to everything: the content calendar, the project tracker (where we are in each phase), and the finance ledger (including subscriptions). Pulls the key numbers onto one screen and makes a report you can print or send.",
       "due": "2027-02-12",
       "after": [
         51,
