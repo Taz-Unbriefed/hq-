@@ -13,9 +13,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 TODAY = dt.date.today()
 
-# Neutral palette (deliberately not tied to any brand)
-INK, MUTED, TRACK, BG = "#1F2937", "#475569", "#E2E8F0", "#F8FAFC"
-FILL, DONE, LATE, BORDER = "#0F766E", "#334155", "#B45309", "#CBD5E1"
+# Taz Unbriefed brand sheet v2.2: red signal, cream room, charcoal text
+INK, MUTED, TRACK, BG = "#2E2E2E", "#5B5853", "#ECE5D9", "#FAF6EF"
+FILL, DONE, LATE, BORDER = "#EC1D1D", "#2E2E2E", "#B45309", "#E7DFD2"
 
 
 def load_from_github():
@@ -131,7 +131,7 @@ def draw_svg(phases, project):
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" '
         f'role="img" aria-label="{e(project)} progress: {pct} percent complete" '
-        f'font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">',
+        f'font-family="Switzer, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">',
         f'<rect width="{W}" height="{H}" rx="14" fill="{BG}" stroke="{BORDER}"/>',
         f'<text x="{x0}" y="46" font-size="22" font-weight="700" fill="{INK}">{e(project)}</text>',
         f'<text x="{x0}" y="70" font-size="14" fill="{MUTED}">{done} of {total} tasks done · updated {nice_date(TODAY.isoformat())}</text>',
