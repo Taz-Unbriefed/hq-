@@ -32,7 +32,7 @@ How Taz Unbriefed runs its work: building **Battle Rhythm**, a daily structure a
 - [#26 Decide what data the app stores](https://github.com/Taz-Unbriefed/hq-/issues/26)
 - [#27 Choose the cross-platform app stack](https://github.com/Taz-Unbriefed/hq-/issues/27)
 
-_Updated automatically Oct 13, 2026._
+_Updated automatically Oct 14, 2026._
 <!-- STATUS:END -->
 
 ## How this works
