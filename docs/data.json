@@ -3,49 +3,49 @@
  "company": "Taz Unbriefed",
  "summary": "How Taz Unbriefed runs its work: building Battle Rhythm, the structure app for veterans with ADHD, and the content brand that tells the story.",
  "repo": "Taz-Unbriefed/hq-",
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "phases": [
   {
    "title": "Phase 0: Foundation",
    "due": "2026-10-11",
-   "done": 0,
-   "total": 0,
-   "status": "Past due"
+   "done": 10,
+   "total": 10,
+   "status": "Complete"
   },
   {
    "title": "Phase 1: Business setup",
    "due": "2026-11-30",
    "done": 0,
-   "total": 0,
+   "total": 8,
    "status": "Not started"
   },
   {
    "title": "Phase 2: Battle Rhythm design",
    "due": "2026-11-15",
    "done": 0,
-   "total": 0,
+   "total": 8,
    "status": "Not started"
   },
   {
    "title": "Phase 3: Build the app",
    "due": "2026-12-20",
    "done": 0,
-   "total": 0,
+   "total": 9,
    "status": "Not started"
   },
   {
    "title": "Phase 4: Beta",
    "due": "2027-01-31",
    "done": 0,
-   "total": 0,
+   "total": 8,
    "status": "Not started"
   },
   {
    "title": "Phase 5: Business tools",
    "due": "2027-02-15",
-   "done": 0,
-   "total": 0,
-   "status": "Not started"
+   "done": 2,
+   "total": 6,
+   "status": "In progress"
   }
  ],
  "labels": {
@@ -187,5 +187,762 @@
  ],
  "messages": [],
  "budget": null,
- "tasks": []
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Set the brand name and tagline",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business",
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/1",
+   "body": "Taz Unbriefed: the stuff they don't brief you on.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 2,
+   "title": "Build the brand kit",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/2",
+   "body": "Logo, colors, and fonts in one brand sheet.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 3,
+   "title": "Buy the domain",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/3",
+   "body": "tazunbriefed.com\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 4,
+   "title": "Set up business email",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/4",
+   "body": "Google Workspace on the company domain.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 5,
+   "title": "Claim the social handles",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/5",
+   "body": "Instagram, TikTok, and YouTube.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 6,
+   "title": "Name the app and its method",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "design",
+    "decision"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/6",
+   "body": "Battle Rhythm, built on B.U.M.P.: Breathe, Unload, Map, Push.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 7,
+   "title": "Design the Battle Rhythm logo",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "design"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/7",
+   "body": "Sound-wave mark, five bars.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 8,
+   "title": "Write the business plan",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/8",
+   "body": "First full draft.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 9,
+   "title": "Write the app structure",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "design"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/9",
+   "body": "Tabs, first-week setup, notifications, and the buddy feature.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 10,
+   "title": "Create the GitHub organization and tracker",
+   "state": "closed",
+   "phase": "Phase 0: Foundation",
+   "labels": [
+    "business"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/10",
+   "body": "This tracker.\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 11,
+   "title": "Register the LLC",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/11",
+   "body": "Form the company in Maryland.\n\n<!-- keystone:due=2026-10-30 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 12,
+   "title": "Get an EIN",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/12",
+   "body": "Federal tax ID for the company.\n\n<!-- keystone:due=2026-11-04 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=11 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 13,
+   "title": "Open a business bank account",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/13",
+   "body": "Keep business money separate from day one.\n\n<!-- keystone:due=2026-11-11 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=12 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 14,
+   "title": "Research veteran small-business funding",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/14",
+   "body": "Compare loan and grant programs for veteran-owned businesses.\n\n<!-- keystone:due=2026-11-13 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 15,
+   "title": "Set the first-year budget",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business",
+    "decision"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/15",
+   "body": "What the app, content, and tools will cost in year one.\n\n<!-- keystone:due=2026-11-20 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=14 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 16,
+   "title": "Check the Battle Rhythm name for trademark conflicts",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business",
+    "decision"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/16",
+   "body": "Search before the beta goes out.\n\n<!-- keystone:due=2026-11-06 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 17,
+   "title": "Write the privacy policy and terms",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/17",
+   "body": "Needed before anyone outside the company uses the app.\n\n<!-- keystone:due=2026-11-25 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 18,
+   "title": "Pick a bookkeeping tool",
+   "state": "open",
+   "phase": "Phase 1: Business setup",
+   "labels": [
+    "business",
+    "decision"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/18",
+   "body": "Simple enough to keep up with weekly.\n\n<!-- keystone:due=2026-11-18 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=13 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 19,
+   "title": "Map the B.U.M.P. daily flow",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/19",
+   "body": "Breathe (check-in), Unload (brain dump), Map (time blocks), Push (one next move).\n\n<!-- keystone:due=2026-10-21 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=6 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 20,
+   "title": "Wireframe the five tabs",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/20",
+   "body": "Dump, Today, Week, Rules, and Me.\n\n<!-- keystone:due=2026-10-30 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=19 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 21,
+   "title": "Design the first-week setup",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/21",
+   "body": "Guided at first, then free.\n\n<!-- keystone:due=2026-11-04 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=20 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 22,
+   "title": "Spec the crisis button",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/22",
+   "body": "Works without AI or internet: hotline, 911, or an emergency contact in one tap.\n\n<!-- keystone:due=2026-10-28 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 23,
+   "title": "Design the daily check-in",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/23",
+   "body": "How are you feeling, in under 30 seconds.\n\n<!-- keystone:due=2026-11-02 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=19 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 24,
+   "title": "Design the optional battle buddy view",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/24",
+   "body": "A buddy sees the check-in and the next move, nothing else.\n\n<!-- keystone:due=2026-11-10 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=23 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 25,
+   "title": "Write the notification settings",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/25",
+   "body": "All three modes, with quiet hours and sleep mode.\n\n<!-- keystone:due=2026-11-12 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=20 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 26,
+   "title": "Decide what data the app stores",
+   "state": "open",
+   "phase": "Phase 2: Battle Rhythm design",
+   "labels": [
+    "design",
+    "decision"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/26",
+   "body": "Keep personal data to the minimum the features need.\n\n<!-- keystone:due=2026-11-14 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 27,
+   "title": "Choose the cross-platform app stack",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build",
+    "decision"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/27",
+   "body": "One codebase for iPhone and Android.\n\n<!-- keystone:due=2026-11-10 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 28,
+   "title": "Set up the development environment",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/28",
+   "body": "Code, test phones, and an AI coding assistant.\n\n<!-- keystone:due=2026-11-17 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=27 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 29,
+   "title": "Build the brain dump (Unload)",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/29",
+   "body": "Type or talk; AI sorts it into tasks.\n\n<!-- keystone:due=2026-11-26 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,20 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 30,
+   "title": "Build Today with time blocks (Map)",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/30",
+   "body": "Drag tasks into the day.\n\n<!-- keystone:due=2026-12-03 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,20 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 31,
+   "title": "Build personal rules",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/31",
+   "body": "Weekly time caps per activity, set by the user.\n\n<!-- keystone:due=2026-12-08 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=30 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 32,
+   "title": "Build the check-in (Breathe) and next move (Push)",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/32",
+   "body": "The start and end of every BUMP.\n\n<!-- keystone:due=2026-12-10 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,23 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 33,
+   "title": "Build the crisis button",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/33",
+   "body": "Tested with the phone offline.\n\n<!-- keystone:due=2026-12-04 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,22 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 34,
+   "title": "Build start-of-day and end-of-day alarms",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/34",
+   "body": "Plus sleep mode.\n\n<!-- keystone:due=2026-12-15 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=28,25 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 35,
+   "title": "Test on iPhone and Android",
+   "state": "open",
+   "phase": "Phase 3: Build the app",
+   "labels": [
+    "build",
+    "testing"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/35",
+   "body": "Every screen on both phones.\n\n<!-- keystone:due=2026-12-19 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=29,30,31,32,33,34 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 36,
+   "title": "Write the beta survey",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/36",
+   "body": "Ten questions or fewer.\n\n<!-- keystone:due=2026-12-15 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 37,
+   "title": "Recruit 10 to 20 beta testers",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/37",
+   "body": "Friends first, veterans with ADHD where possible.\n\n<!-- keystone:due=2026-12-22 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 38,
+   "title": "Send the beta link",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/38",
+   "body": "With the survey and a one-page how-to.\n\n<!-- keystone:due=2026-12-28 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=35,36,37,17 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 39,
+   "title": "Run my own BUMP every day of the beta",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/39",
+   "body": "Use it the way testers will.\n\n<!-- keystone:due=2027-01-11 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=38 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 40,
+   "title": "Collect the survey answers",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/40",
+   "body": "Follow up with anyone who hasn't answered.\n\n<!-- keystone:due=2027-01-11 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=38 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 41,
+   "title": "Fix the top five issues",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "build",
+    "testing"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/41",
+   "body": "Ranked by how many testers hit them.\n\n<!-- keystone:due=2027-01-14 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=40 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 42,
+   "title": "Write the beta results",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "testing",
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/42",
+   "body": "What worked, what didn't, what's next.\n\n<!-- keystone:due=2027-01-15 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=40 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 43,
+   "title": "Publish the Permission to Speak Freely intro reel",
+   "state": "closed",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/43",
+   "body": "Short form for Instagram, TikTok, and YouTube Shorts.\n\n<!-- keystone:due=2026-10-24 -->\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "not_planned"
+  },
+  {
+   "number": 44,
+   "title": "Post the reasons-to-follow series",
+   "state": "closed",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/44",
+   "body": "Four posts, then the combined post.\n\n<!-- keystone:due=2026-11-07 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=43 -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "not_planned"
+  },
+  {
+   "number": 45,
+   "title": "Finish the carousels for all three pillars",
+   "state": "closed",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/45",
+   "body": "The Unbriefed, Day to Day, and The Deep Well.\n\n<!-- keystone:due=2026-11-21 -->\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "not_planned"
+  },
+  {
+   "number": 46,
+   "title": "Set up the weekly video routine",
+   "state": "open",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/46",
+   "body": "One long video a week, cut into three shorts for Tuesday, Thursday, and Saturday.\n\n<!-- keystone:due=2026-11-14 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 47,
+   "title": "Start the Run your BUMP build series",
+   "state": "closed",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/47",
+   "body": "Show the app being built, the wins and the misses.\n\n<!-- keystone:due=2026-12-05 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=46 -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "not_planned"
+  },
+  {
+   "number": 48,
+   "title": "Add the coloring book link to YouTube",
+   "state": "open",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/48",
+   "body": "In the channel description.\n\n<!-- keystone:due=2026-10-31 -->\n<!-- keystone:owner=taz -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 49,
+   "title": "Outline the Battle Rhythm book",
+   "state": "open",
+   "phase": "Phase 4: Beta",
+   "labels": [
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/49",
+   "body": "Built from the build series and the beta.\n\n<!-- keystone:due=2027-01-31 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=42 -->",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 50,
+   "title": "Decide where private business data lives",
+   "state": "closed",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "business",
+    "decision"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/50",
+   "body": "Finance and other private records can't go in a public repository. Pick a private home (private repo, or a private file kept off GitHub).\n\n<!-- keystone:due=2026-10-24 -->\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 51,
+   "title": "Build the content creator calendar app",
+   "state": "closed",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "build",
+    "content"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/51",
+   "body": "Plan, film, edit, and post dates for each video and short, by pillar and platform, with the Tue/Thu/Sat shorts schedule.\n\n<!-- keystone:due=2026-12-12 -->\n<!-- keystone:owner=taz -->",
+   "closed": "2026-10-11",
+   "created": "2026-10-11",
+   "reason": "completed"
+  },
+  {
+   "number": 52,
+   "title": "Build the finance ledger",
+   "state": "open",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "business",
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/52",
+   "body": "Money in and out by category, with receipts, plus a list of every subscription the business pays for (what it is, cost, how often, renewal date). Private: lives in hq-private, never on the public board. Opens from the organization dashboard.\n\n<!-- keystone:due=2026-11-25 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=13,50 -->\n\n---\n_Generated by [Claude Code](https://claude.ai/code)_",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  },
+  {
+   "number": 53,
+   "title": "Build the organization dashboard",
+   "state": "open",
+   "phase": "Phase 5: Business tools",
+   "labels": [
+    "business",
+    "build"
+   ],
+   "url": "https://github.com/Taz-Unbriefed/hq-/issues/53",
+   "body": "One private home page for the business, visible only with the owner key. Links to everything: the content calendar, the project tracker (where we are in each phase), and the finance ledger (including subscriptions). Pulls the key numbers onto one screen and makes a report you can print or send.\n\n<!-- keystone:due=2027-02-12 -->\n<!-- keystone:owner=taz -->\n<!-- keystone:after=51,52 -->\n\n---\n_Generated by [Claude Code](https://claude.ai/code)_",
+   "closed": "",
+   "created": "2026-10-11",
+   "reason": ""
+  }
+ ]
 }

@@ -9,14 +9,30 @@ How Taz Unbriefed runs its work: building **Battle Rhythm**, a daily structure a
 
 | Phase | Due | Done | Status |
 | --- | --- | --- | --- |
-| Phase 0: Foundation | Oct 11, 2026 | 0 / 0 | Past due |
-| Phase 1: Business setup | Nov 30, 2026 | 0 / 0 | Not started |
-| Phase 2: Battle Rhythm design | Nov 15, 2026 | 0 / 0 | Not started |
-| Phase 3: Build the app | Dec 20, 2026 | 0 / 0 | Not started |
-| Phase 4: Beta | Jan 31, 2027 | 0 / 0 | Not started |
-| Phase 5: Business tools | Feb 15, 2027 | 0 / 0 | Not started |
+| Phase 0: Foundation | Oct 11, 2026 | 10 / 10 | Complete |
+| Phase 1: Business setup | Nov 30, 2026 | 0 / 8 | Not started |
+| Phase 2: Battle Rhythm design | Nov 15, 2026 | 0 / 8 | Not started |
+| Phase 3: Build the app | Dec 20, 2026 | 0 / 9 | Not started |
+| Phase 4: Beta | Jan 31, 2027 | 0 / 8 | Not started |
+| Phase 5: Business tools | Feb 15, 2027 | 2 / 6 | In progress |
 
-_Updated automatically Oct 22, 2026._
+**Up next (Phase 2: Battle Rhythm design):**
+
+- [ ] [#19 Map the B.U.M.P. daily flow](https://github.com/Taz-Unbriefed/hq-/issues/19)
+- [ ] [#20 Wireframe the five tabs](https://github.com/Taz-Unbriefed/hq-/issues/20)
+- [ ] [#21 Design the first-week setup](https://github.com/Taz-Unbriefed/hq-/issues/21)
+- [ ] [#22 Spec the crisis button](https://github.com/Taz-Unbriefed/hq-/issues/22)
+- [ ] [#23 Design the daily check-in](https://github.com/Taz-Unbriefed/hq-/issues/23)
+
+**Decisions waiting on you:**
+
+- [#15 Set the first-year budget](https://github.com/Taz-Unbriefed/hq-/issues/15)
+- [#16 Check the Battle Rhythm name for trademark conflicts](https://github.com/Taz-Unbriefed/hq-/issues/16)
+- [#18 Pick a bookkeeping tool](https://github.com/Taz-Unbriefed/hq-/issues/18)
+- [#26 Decide what data the app stores](https://github.com/Taz-Unbriefed/hq-/issues/26)
+- [#27 Choose the cross-platform app stack](https://github.com/Taz-Unbriefed/hq-/issues/27)
+
+_Updated automatically Oct 23, 2026._
 <!-- STATUS:END -->
 
 ## How this works
