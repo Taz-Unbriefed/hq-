@@ -11,7 +11,7 @@ How Taz Unbriefed runs its work: building **Battle Rhythm**, a daily structure a
 | --- | --- | --- | --- |
 | Phase 0: Foundation | Oct 11, 2026 | 10 / 10 | Complete |
 | Phase 1: Business setup | Nov 30, 2026 | 0 / 8 | Not started |
-| Phase 2: Battle Rhythm design | Nov 15, 2026 | 0 / 8 | Not started |
+| Phase 2: Battle Rhythm design | Nov 15, 2026 | 0 / 8 | Past due |
 | Phase 3: Build the app | Dec 20, 2026 | 0 / 9 | Not started |
 | Phase 4: Beta | Jan 31, 2027 | 0 / 8 | Not started |
 | Phase 5: Business tools | Feb 15, 2027 | 2 / 6 | In progress |
@@ -32,7 +32,7 @@ How Taz Unbriefed runs its work: building **Battle Rhythm**, a daily structure a
 - [#26 Decide what data the app stores](https://github.com/Taz-Unbriefed/hq-/issues/26)
 - [#27 Choose the cross-platform app stack](https://github.com/Taz-Unbriefed/hq-/issues/27)
 
-_Updated automatically Nov 15, 2026._
+_Updated automatically Nov 16, 2026._
 <!-- STATUS:END -->
 
 ## How this works
